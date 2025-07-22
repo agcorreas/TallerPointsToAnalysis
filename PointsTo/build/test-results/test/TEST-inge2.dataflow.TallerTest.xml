@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="inge2.dataflow.TallerTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2024-09-02T22:45:15" hostname="pc44" time="1.111">
+  <properties/>
+  <testcase name="testTarget1()" classname="inge2.dataflow.TallerTest" time="0.707"/>
+  <testcase name="testTarget2()" classname="inge2.dataflow.TallerTest" time="0.09"/>
+  <testcase name="testTarget3()" classname="inge2.dataflow.TallerTest" time="0.084"/>
+  <testcase name="testTarget4()" classname="inge2.dataflow.TallerTest" time="0.084"/>
+  <testcase name="testTarget5()" classname="inge2.dataflow.TallerTest" time="0.078"/>
+  <testcase name="testTarget6()" classname="inge2.dataflow.TallerTest" time="0.063"/>
+  <testcase name="testUnionPTG()" classname="inge2.dataflow.TallerTest" time="0.001"/>
+  <system-out><![CDATA[Soot started on Mon Sep 02 19:45:16 ART 2024
+Soot finished on Mon Sep 02 19:45:16 ART 2024
+Soot has run for 0 min. 0 sec.
+Soot started on Mon Sep 02 19:45:16 ART 2024
+Soot finished on Mon Sep 02 19:45:16 ART 2024
+Soot has run for 0 min. 0 sec.
+Soot started on Mon Sep 02 19:45:16 ART 2024
+Soot finished on Mon Sep 02 19:45:16 ART 2024
+Soot has run for 0 min. 0 sec.
+Soot started on Mon Sep 02 19:45:16 ART 2024
+Soot finished on Mon Sep 02 19:45:16 ART 2024
+Soot has run for 0 min. 0 sec.
+Soot started on Mon Sep 02 19:45:16 ART 2024
+Soot finished on Mon Sep 02 19:45:16 ART 2024
+Soot has run for 0 min. 0 sec.
+Soot started on Mon Sep 02 19:45:16 ART 2024
+Soot finished on Mon Sep 02 19:45:16 ART 2024
+Soot has run for 0 min. 0 sec.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
